@@ -1,0 +1,11 @@
+D:\CDAC\.Net\Customer\Product\bin\Debug\net8.0\Product.deps.json
+D:\CDAC\.Net\Customer\Product\bin\Debug\net8.0\Product.dll
+D:\CDAC\.Net\Customer\Product\bin\Debug\net8.0\Product.pdb
+D:\CDAC\.Net\Customer\Product\obj\Debug\net8.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\.Net\Customer\Product\obj\Debug\net8.0\Product.AssemblyInfoInputs.cache
+D:\CDAC\.Net\Customer\Product\obj\Debug\net8.0\Product.AssemblyInfo.cs
+D:\CDAC\.Net\Customer\Product\obj\Debug\net8.0\Product.csproj.CoreCompileInputs.cache
+D:\CDAC\.Net\Customer\Product\obj\Debug\net8.0\Product.dll
+D:\CDAC\.Net\Customer\Product\obj\Debug\net8.0\refint\Product.dll
+D:\CDAC\.Net\Customer\Product\obj\Debug\net8.0\Product.pdb
+D:\CDAC\.Net\Customer\Product\obj\Debug\net8.0\ref\Product.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\.Net\\donnetDemoPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{490E92D9-5452-432B-8AEA-BCF5306289A5}|GDlib\\GDlib.csproj|d:\\cdac\\.net\\donnetdemopractice\\gdlib\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490E92D9-5452-432B-8AEA-BCF5306289A5}|GDlib\\GDlib.csproj|solutionrelative:gdlib\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F383A62A-E62A-47F7-A6B4-9FEFE21AE958}|PaintConsole\\PaintConsole.csproj|d:\\cdac\\.net\\donnetdemopractice\\paintconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F383A62A-E62A-47F7-A6B4-9FEFE21AE958}|PaintConsole\\PaintConsole.csproj|solutionrelative:paintconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490E92D9-5452-432B-8AEA-BCF5306289A5}|GDlib\\GDlib.csproj|d:\\cdac\\.net\\donnetdemopractice\\gdlib\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490E92D9-5452-432B-8AEA-BCF5306289A5}|GDlib\\GDlib.csproj|solutionrelative:gdlib\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490E92D9-5452-432B-8AEA-BCF5306289A5}|GDlib\\GDlib.csproj|d:\\cdac\\.net\\donnetdemopractice\\gdlib\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490E92D9-5452-432B-8AEA-BCF5306289A5}|GDlib\\GDlib.csproj|solutionrelative:gdlib\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490E92D9-5452-432B-8AEA-BCF5306289A5}|GDlib\\GDlib.csproj|d:\\cdac\\.net\\donnetdemopractice\\gdlib\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490E92D9-5452-432B-8AEA-BCF5306289A5}|GDlib\\GDlib.csproj|solutionrelative:gdlib\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490E92D9-5452-432B-8AEA-BCF5306289A5}|GDlib\\GDlib.csproj|d:\\cdac\\.net\\donnetdemopractice\\gdlib\\istorable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490E92D9-5452-432B-8AEA-BCF5306289A5}|GDlib\\GDlib.csproj|solutionrelative:gdlib\\istorable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\donnetDemoPractice\\PaintConsole\\Program.cs",
+              "RelativeDocumentMoniker": "PaintConsole\\Program.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\donnetDemoPractice\\PaintConsole\\Program.cs",
+              "RelativeToolTip": "PaintConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:43:22.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Line.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\donnetDemoPractice\\GDlib\\Line.cs",
+              "RelativeDocumentMoniker": "GDlib\\Line.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\donnetDemoPractice\\GDlib\\Line.cs",
+              "RelativeToolTip": "GDlib\\Line.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:08:28.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStorable.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\donnetDemoPractice\\GDlib\\IStorable.cs",
+              "RelativeDocumentMoniker": "GDlib\\IStorable.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\donnetDemoPractice\\GDlib\\IStorable.cs",
+              "RelativeToolTip": "GDlib\\IStorable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:06:17.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\donnetDemoPractice\\GDlib\\IPrintable.cs",
+              "RelativeDocumentMoniker": "GDlib\\IPrintable.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\donnetDemoPractice\\GDlib\\IPrintable.cs",
+              "RelativeToolTip": "GDlib\\IPrintable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:05:19.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\donnetDemoPractice\\GDlib\\Point.cs",
+              "RelativeDocumentMoniker": "GDlib\\Point.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\donnetDemoPractice\\GDlib\\Point.cs",
+              "RelativeToolTip": "GDlib\\Point.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:01:13.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\donnetDemoPractice\\GDlib\\Shape.cs",
+              "RelativeDocumentMoniker": "GDlib\\Shape.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\donnetDemoPractice\\GDlib\\Shape.cs",
+              "RelativeToolTip": "GDlib\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:58:27.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

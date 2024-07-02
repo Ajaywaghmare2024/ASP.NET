@@ -1,0 +1,11 @@
+D:\CDAC\.Net\donnetDemoPractice\GDlib\bin\Debug\net8.0\GDlib.deps.json
+D:\CDAC\.Net\donnetDemoPractice\GDlib\bin\Debug\net8.0\GDlib.dll
+D:\CDAC\.Net\donnetDemoPractice\GDlib\bin\Debug\net8.0\GDlib.pdb
+D:\CDAC\.Net\donnetDemoPractice\GDlib\obj\Debug\net8.0\GDlib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\.Net\donnetDemoPractice\GDlib\obj\Debug\net8.0\GDlib.AssemblyInfoInputs.cache
+D:\CDAC\.Net\donnetDemoPractice\GDlib\obj\Debug\net8.0\GDlib.AssemblyInfo.cs
+D:\CDAC\.Net\donnetDemoPractice\GDlib\obj\Debug\net8.0\GDlib.csproj.CoreCompileInputs.cache
+D:\CDAC\.Net\donnetDemoPractice\GDlib\obj\Debug\net8.0\GDlib.dll
+D:\CDAC\.Net\donnetDemoPractice\GDlib\obj\Debug\net8.0\refint\GDlib.dll
+D:\CDAC\.Net\donnetDemoPractice\GDlib\obj\Debug\net8.0\GDlib.pdb
+D:\CDAC\.Net\donnetDemoPractice\GDlib\obj\Debug\net8.0\ref\GDlib.dll

@@ -1,0 +1,15 @@
+D:\CDAC\.Net\Customer\Player\obj\Debug\net8.0\Player.csproj.AssemblyReference.cache
+D:\CDAC\.Net\Customer\Player\obj\Debug\net8.0\Player.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\.Net\Customer\Player\obj\Debug\net8.0\Player.AssemblyInfoInputs.cache
+D:\CDAC\.Net\Customer\Player\obj\Debug\net8.0\Player.AssemblyInfo.cs
+D:\CDAC\.Net\Customer\Player\obj\Debug\net8.0\Player.csproj.CoreCompileInputs.cache
+D:\CDAC\.Net\Customer\Player\bin\Debug\net8.0\Player.deps.json
+D:\CDAC\.Net\Customer\Player\bin\Debug\net8.0\Player.dll
+D:\CDAC\.Net\Customer\Player\bin\Debug\net8.0\Player.pdb
+D:\CDAC\.Net\Customer\Player\bin\Debug\net8.0\Product.dll
+D:\CDAC\.Net\Customer\Player\bin\Debug\net8.0\Product.pdb
+D:\CDAC\.Net\Customer\Player\obj\Debug\net8.0\Player.csproj.Up2Date
+D:\CDAC\.Net\Customer\Player\obj\Debug\net8.0\Player.dll
+D:\CDAC\.Net\Customer\Player\obj\Debug\net8.0\refint\Player.dll
+D:\CDAC\.Net\Customer\Player\obj\Debug\net8.0\Player.pdb
+D:\CDAC\.Net\Customer\Player\obj\Debug\net8.0\ref\Player.dll
