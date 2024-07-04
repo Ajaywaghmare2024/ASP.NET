@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Product Management";
+}
+
+<h2>Product Management</h2>
+
+<div>
+    @Html.ActionLink("Create New Product", "AddProduct", null, new { @class = "btn btn-primary" })
+</div>
+
+<div style="margin-top: 10px;">
+    @Html.ActionLink("Display All Products", "GetProduct", null, new { @class = "btn btn-info" })
+</div>
+
+<div style="margin-top: 10px;">
+    @Html.ActionLink("Update Product", "Update", null, new { @class = "btn btn-warning" })
+</div>
+
+<div style="margin-top: 10px;">
+    @Html.ActionLink("Delete Product", "Delete", null, new { @class = "btn btn-danger" })
+</div>

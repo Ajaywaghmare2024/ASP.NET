@@ -1,0 +1,18 @@
+﻿
+@model FlipKart.Models.Product
+
+@{
+    ViewBag.Title = "Delete Product";
+}
+
+<h2>Delete Product</h2>
+
+@using (Html.BeginForm("Delete", "Product", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.Id)
+        @Html.EditorFor(model => model.Id, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Delete</button>
+}
