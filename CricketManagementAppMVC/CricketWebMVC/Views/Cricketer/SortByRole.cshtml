@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+<h1> Sorted Cricketer List</h1>
+
+<list>
+    <ul>
+        @foreach (var cricketer in Model)
+        {
+            <div>
+            <li>
+
+                Id: @cricketer.Id;
+                Name: @cricketer.Id;
+                JersyNo: @cricketer.JersyNo;
+                Ranker: @cricketer.Ranker;
+                Age: @cricketer.Age;
+
+                DOJ: @cricketer.DOJ;
+                Role:@cricketer.Role;
+            </li>
+            </div>
+
+        }
+    </ul>
+</list>
+
+
