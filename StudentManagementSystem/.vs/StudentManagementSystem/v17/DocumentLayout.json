@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\.Net\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\views\\student\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\views\\student\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\views\\student\\sortbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\views\\student\\sortbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\views\\student\\searchstudentbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\views\\student\\searchstudentbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\repositories\\dbstudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\repositories\\dbstudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|d:\\cdac\\.net\\studentmanagementsystem\\studentwebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B91C9-CCB2-4DD4-ABBF-5CEF7B525477}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteStudent.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\DeleteStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApp\\Views\\Student\\DeleteStudent.cshtml",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\DeleteStudent.cshtml",
+              "RelativeToolTip": "StudentWebApp\\Views\\Student\\DeleteStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:42:11.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Services\\IStudentService.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentWebApp\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:39:56.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchStudentByStatus.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\SearchStudentByStatus.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApp\\Views\\Student\\SearchStudentByStatus.cshtml",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\SearchStudentByStatus.cshtml",
+              "RelativeToolTip": "StudentWebApp\\Views\\Student\\SearchStudentByStatus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:38:27.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortByStatus.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\SortByStatus.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApp\\Views\\Student\\SortByStatus.cshtml",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\SortByStatus.cshtml",
+              "RelativeToolTip": "StudentWebApp\\Views\\Student\\SortByStatus.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:38:22.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateStudent.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\UpdateStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApp\\Views\\Student\\UpdateStudent.cshtml",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\UpdateStudent.cshtml",
+              "RelativeToolTip": "StudentWebApp\\Views\\Student\\UpdateStudent.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:37:51.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApp\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "StudentWebApp\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:37:07.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllStudents.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApp\\Views\\Student\\GetAllStudents.cshtml",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeToolTip": "StudentWebApp\\Views\\Student\\GetAllStudents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:36:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentWebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:35:33.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Services\\StudentService.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentWebApp\\Services\\StudentService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:33:49.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbStudentContext.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Repositories\\DbStudentContext.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Repositories\\DbStudentContext.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Repositories\\DbStudentContext.cs",
+              "RelativeToolTip": "StudentWebApp\\Repositories\\DbStudentContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:33:41.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Models\\Student.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentManagementSystem\\StudentWebApp\\Models\\Student.cs",
+              "RelativeToolTip": "StudentWebApp\\Models\\Student.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:33:32.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

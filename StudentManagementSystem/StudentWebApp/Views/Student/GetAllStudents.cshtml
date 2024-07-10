@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    ViewData["Title"] = "Student List";
+}
+<h1>Students List</h1>
+
+
+
+    <ul>
+        @foreach(var Student in Model)
+        {
+            <li>
+                <label>Student_Id:</label> @Student.Student_Id,
+                <label>Student_Name:</label> @Student.Student_Name,
+                <label>Student_Email:</label> @Student.Student_Email,
+                <label>Mobile_Number:</label> @Student.Mobile_Number,
+                <label>Student_Address:</label> @Student.Student_Address,
+                <label>Admission:</label> @Student.Admission,
+                <label>Fees:</label> @Student.Fees,
+                <label>Status:</label> @Student.Status,
+
+
+
+
+            </li>
+        }
+    </ul>
+

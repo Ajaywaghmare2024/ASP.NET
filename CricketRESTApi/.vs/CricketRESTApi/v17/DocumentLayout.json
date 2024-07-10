@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\.Net\\CricketRESTApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|d:\\cdac\\.net\\cricketrestapi\\cricketwebapp\\controllers\\cricketercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|solutionrelative:cricketwebapp\\controllers\\cricketercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|d:\\cdac\\.net\\cricketrestapi\\cricketwebapp\\services\\cricketerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|solutionrelative:cricketwebapp\\services\\cricketerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|d:\\cdac\\.net\\cricketrestapi\\cricketwebapp\\entitties\\updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|solutionrelative:cricketwebapp\\entitties\\updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|d:\\cdac\\.net\\cricketrestapi\\cricketwebapp\\services\\icricketerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|solutionrelative:cricketwebapp\\services\\icricketerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|d:\\cdac\\.net\\cricketrestapi\\cricketwebapp\\repositories\\dbcricketercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|solutionrelative:cricketwebapp\\repositories\\dbcricketercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|d:\\cdac\\.net\\cricketrestapi\\cricketwebapp\\entitties\\cricketer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|solutionrelative:cricketwebapp\\entitties\\cricketer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|d:\\cdac\\.net\\cricketrestapi\\cricketwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8F2887-C786-4947-BF9B-1AA415B004CC}|CricketWebApp\\CricketWebApp.csproj|solutionrelative:cricketwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateModel.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Entitties\\UpdateModel.cs",
+              "RelativeDocumentMoniker": "CricketWebApp\\Entitties\\UpdateModel.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Entitties\\UpdateModel.cs",
+              "RelativeToolTip": "CricketWebApp\\Entitties\\UpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:09:48.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "CricketWebApp\\Program.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Program.cs",
+              "RelativeToolTip": "CricketWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:04:14.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CricketerController.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Controllers\\CricketerController.cs",
+              "RelativeDocumentMoniker": "CricketWebApp\\Controllers\\CricketerController.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Controllers\\CricketerController.cs",
+              "RelativeToolTip": "CricketWebApp\\Controllers\\CricketerController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:57:56.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CricketerService.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Services\\CricketerService.cs",
+              "RelativeDocumentMoniker": "CricketWebApp\\Services\\CricketerService.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Services\\CricketerService.cs",
+              "RelativeToolTip": "CricketWebApp\\Services\\CricketerService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:46:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICricketerService.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Services\\ICricketerService.cs",
+              "RelativeDocumentMoniker": "CricketWebApp\\Services\\ICricketerService.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Services\\ICricketerService.cs",
+              "RelativeToolTip": "CricketWebApp\\Services\\ICricketerService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:46:09.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbCricketerContext.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Repositories\\DbCricketerContext.cs",
+              "RelativeDocumentMoniker": "CricketWebApp\\Repositories\\DbCricketerContext.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Repositories\\DbCricketerContext.cs",
+              "RelativeToolTip": "CricketWebApp\\Repositories\\DbCricketerContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:40:01.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cricketer.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Entitties\\Cricketer.cs",
+              "RelativeDocumentMoniker": "CricketWebApp\\Entitties\\Cricketer.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\CricketRESTApi\\CricketWebApp\\Entitties\\Cricketer.cs",
+              "RelativeToolTip": "CricketWebApp\\Entitties\\Cricketer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:36:59.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

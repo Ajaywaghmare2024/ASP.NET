@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CricketWebApp.props" />
+</Project>

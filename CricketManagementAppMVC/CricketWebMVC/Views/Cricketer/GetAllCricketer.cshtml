@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+<h1> All Cricketer List</h1>
+
+<list>
+    <ul>
+        @foreach(var cricketer in Model){
+       <div>
+            <li>
+              
+                  Id: @cricketer.Id;
+                  Name: @cricketer.Name;
+                  JersyNo: @cricketer.JersyNo;
+                  Ranker: @cricketer.Ranker;
+                  Age: @cricketer.Age;
+
+                  DOJ: @cricketer.DOJ;
+                  Role:@cricketer.Role;
+            </li>
+           </div>
+     
+        }
+    </ul>
+</list>
+
